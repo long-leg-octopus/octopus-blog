@@ -36,7 +36,7 @@ headerTitle = "章鱼腿很长的BLOG"
  #LEANCLOUD_APP_KEY = ""
 
  waline = true
- walineServer = "commnet.dl07.vip"
+ walineServer = "https://commnet.dl07.vip/.netlify/functions/comment"
 
  email = "dl07vip@163.com"
 
