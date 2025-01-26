@@ -1,0 +1,69 @@
+baseurl = "https://dl07vip.com"
+defaultContentLanguage = "zh"
+languageCode = "zh"
+title = "章鱼腿很长的BLOG"
+theme = "dream"
+
+# [services]
+# [services.disqus]
+# shortname = ""
+# [services.googleAnalytics]
+# ID = ""
+
+[params]
+# zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# backgroundImage = "me/background.jpg"
+# backgroundImageDark = ""
+
+author = "Dream"
+# description = ""
+ avatar = "img/avatar.png"
+headerTitle = "章鱼腿很长的BLOG"
+ motto = "分享硬件设计、生活日常"
+
+# footerBottomText = "123"
+
+ rss = true
+
+# utterancesRepo = ""
+
+ valine = true
+ #LEANCLOUD_APP_ID = ""
+ #LEANCLOUD_APP_KEY = ""
+
+# waline = true
+# walineServer = ""
+
+ email = "dl07vip@163.com"
+
+siteStartYear = 2016
+
+ favicon = "img/favicon.ico"
+
+# Syntax highlighting
+# customSyntaxHighlighting = true
+
+# options
+ stickyNav = true
+#reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
+  collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+ showTableOfContents = true
+# showSummaryCoverInPost = true
+# imageZoomableInPost = true
+ showPrevNextPost = true
+ reorderShares = ["x", "facebook", "whatsapp"]
+
+# [params.navItems]
+
+# [params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
+
+# [params.experimental]
+# jsDate = true
+# jsDateFormat = "yyyy年MM月dd日"
