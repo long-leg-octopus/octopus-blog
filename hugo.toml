@@ -31,12 +31,12 @@ headerTitle = "章鱼腿很长的BLOG"
 
 # utterancesRepo = ""
 
- valine = true
+ #valine = true
  #LEANCLOUD_APP_ID = ""
  #LEANCLOUD_APP_KEY = ""
 
-# waline = true
-# walineServer = ""
+ waline = true
+ walineServer = "https://frabjous-starlight-bccf13.netlify.app/.netlify/functions/comment"
 
  email = "dl07vip@163.com"
 
