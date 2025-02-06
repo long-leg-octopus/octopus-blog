@@ -1,0 +1,21 @@
+.donation {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.donation-item {
+  display: inline-block;
+  margin: 10px;
+}
+
+.donation-item img {
+  width: 150px;
+  height: 150px;
+}
+
+.donation-item a {
+  display: block;
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
