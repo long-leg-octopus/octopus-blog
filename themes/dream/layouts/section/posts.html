@@ -14,33 +14,6 @@
     {{ end }}
   </div>
 
-  <!-- 添加捐赠部分 -->
-  {{ if .Site.Params.donation.enable }}
-  <div class="donation">
-    <h3>支持我</h3>
-    <p>如果你觉得这篇文章对你有帮助，可以考虑请我喝杯咖啡。</p>
-    {{ if .Site.Params.donation.wechat }}
-    <div class="donation-item">
-      <img src="{{ .Site.Params.donation.wechat }}" alt="微信支付">
-      <p>微信支付</p>
-    </div>
-    {{ end }}
-    {{ if .Site.Params.donation.alipay }}
-    <div class="donation-item">
-      <img src="{{ .Site.Params.donation.alipay }}" alt="支付宝">
-      <p>支付宝</p>
-    </div>
-    {{ end }}
-    {{ if .Site.Params.donation.paypal }}
-    <div class="donation-item">
-      <a href="{{ .Site.Params.donation.paypal }}" target="_blank">PayPal</a>
-    </div>
-    {{ end }}
-  </div>
-  {{ end }}
-  <!-- 捐赠部分结束 -->
-
-
   <div class="max-w-[65ch] mx-auto mt-8 lg:mt-12">
     <ul class="timeline timeline-vertical">
       {{ $groupLayout := default "2006" .Params.groupLayout }}

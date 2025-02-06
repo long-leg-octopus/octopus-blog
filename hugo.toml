@@ -47,15 +47,6 @@ siteStartYear = 2016
 # Syntax highlighting
 # customSyntaxHighlighting = true
 
-
-[params.donation]
-  enable = true
-  wechat = "/images/wechat-pay.png"
-  alipay = "/images/alipay.png"
-  paypal = "https://paypal.me/yourpaypal"
-
-
-
 # options
  stickyNav = true
 #reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
