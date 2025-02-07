@@ -1,11 +1,13 @@
 ---
-title: Me
-date: 2025-01-26T09:47:14+08:00
-draft: true
+title: 关于我
+date: 2019-11-11T01:30:24+08:00
 ---
 
-Cut out summary from your post content here.
-
 <!--more-->
-
-The remaining content of your post.
+## 基本信息
+性别男，爱好女。
+身高 185cm ，体重 75kg。
+从事硬件设计多年 ，现居住地大连。
+## 个人追求
+要用知识和技术帮助更多的人。当然也要让自己过的更好。
+努力赚钱，早日实现环游中国。

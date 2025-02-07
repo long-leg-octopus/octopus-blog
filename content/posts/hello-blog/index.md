@@ -2,7 +2,7 @@
 title: Hello Blog
 slug: hello-blog
 date: 2025-02-06T19:00:35+08:00
-lastmod: 2025-02-06T21:27:53+08:00
+lastmod: 2025-02-07T22:18:21+08:00
 author: 章鱼
 categories:
   - ""
@@ -19,5 +19,5 @@ images:
 
 <!--more-->
 这是第一篇博客！
-
+刷到的朋友，欢迎留个脚印。
 
