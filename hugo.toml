@@ -1,7 +1,7 @@
-baseurl = "https://dl07.vip"
+baseurl = "https://www.dl07.vip"
 defaultContentLanguage = "zh"
 languageCode = "zh"
-title = "章鱼腿很长的BLOG"
+title = "章鱼腿很长"
 theme = "dream"
 
 # [services]
