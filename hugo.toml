@@ -73,3 +73,10 @@ siteStartYear = 2016
   source = 'content'
   target = 'content'
   excludeFiles = ['posts/_Templates']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
