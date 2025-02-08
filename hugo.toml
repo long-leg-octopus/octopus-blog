@@ -67,3 +67,9 @@ siteStartYear = 2016
 # [params.experimental]
 # jsDate = true
 # jsDateFormat = "yyyy年MM月dd日"
+
+[module]
+[[module.mounts]]
+  source = 'content'
+  target = 'content'
+  excludeFiles = ['posts/_Templates']

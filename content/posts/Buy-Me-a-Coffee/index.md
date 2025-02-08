@@ -1,0 +1,34 @@
+---
+title: Buy Me a Coffee
+date: 2025-02-08T14:21:26+08:00
+author: 章鱼
+#avatar: /me/yy.jpg
+#cover: Buy-Me-a-Coffee.jpg
+images:
+  - Buy-Me-a-Coffee.jpg
+categories:
+  - 
+tags:
+  - 赞赏
+weight: 1
+---
+
+<!--more-->
+
+如果你喜欢我的作品或者发现它们对你有所帮助，可以考虑给我买一杯咖啡 ☕️。
+无论赞助多少，都会让我感受到创作与分享真的有价值，你的认可远比金额数值更重要。
+
+## Donation Methods (捐赠方式)
+
+
+### 微信
+
+![微信赞赏码](/img/wechat_donate.png)
+
+## Donation Records (捐赠记录)
+
+|   赞助人  | 时间  | 金额  | 留言  | 说点啥  |
+| :-------------:		 |:-------------:|:-------------:|:-------------:|:-------------:|
+|  |   |   |  |  |
+
+
