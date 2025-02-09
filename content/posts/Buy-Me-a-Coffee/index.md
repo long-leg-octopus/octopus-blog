@@ -1,14 +1,12 @@
 ---
 title: Buy Me a Coffee
-#slug: buy-me-a-coffee
 date: 2025-02-08T14:21:26+08:00
+lastmod: 2025-02-09T13:40:30+08:00
 author: 章鱼
-#avatar: /me/yy.jpg
-#cover: Buy-Me-a-Coffee.jpg
-#images:
-# - Buy-Me-a-Coffee.jpg
-categories:
-  - 
+cover: index-1739079466953.webp
+images:
+  - index-1739079466953.webp
+categories: 
 tags:
   - 赞赏
 weight: 1

@@ -1,16 +1,16 @@
 ---
-title: "test blog"
-slug: "testblog"
+title: test blog
+slug: testblog
 date: 2025-02-06T16:43:46+08:00
 lastmod: 2025-02-06T18:49:54+08:00
-categories: [""]
-tags:
+categories:
+  - ""
+tags: 
 toc: false
-draft: false
+draft: true
 isCJKLanguage: true
 cover: 
-images: 
-  - 
+images:
 ---
 
 test imp 

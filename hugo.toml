@@ -11,7 +11,7 @@ theme = "dream"
 # ID = ""
 
 [params]
-# zenMode = true
+zenMode = true
 
 lightTheme = "emerald"
 darkTheme = "forest"
@@ -40,7 +40,7 @@ headerTitle = "章鱼腿很长"
 
  email = "dl07vip@163.com"
 
-siteStartYear = 2016
+siteStartYear = 2025
 
  favicon = "img/favicon.ico"
 
