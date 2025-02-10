@@ -2,7 +2,7 @@
 title: 如何搭建个人博客 Hugo+Github+Netlify
 slug: build-a-blog
 date: 2025-02-08T20:58:16+08:00
-lastmod: 2025-02-09T19:24:58+08:00
+lastmod: 2025-02-10T18:50:21+08:00
 author: 章鱼
 categories:
   - 笔记
@@ -25,14 +25,17 @@ images:
 
 > 搭建个人博客,常规步骤：**选择博客平台、购买独立域名、服务器或者托管平台**。
 ## 博客平台
+----
 博客平台有很多，我最终选择的是使用 [Hugo](https://gohugo.io/) 这个静态网站生成器来搭建我的个人博客。
 
 >Hugo 是一个用 Go 语言编写的静态网站生成器。具有速度快、主题丰富、使用简单等特点。号称是世界上最快的网站生成框架。支持Markdown 语法，可以直接使用Markdown写博客。
 
 Hugo 支持的主题有很多，所有的主题都在 [Hugo Themes](https://themes.gohugo.io/) 里面列出。我目前用的是「[Dream](https://github.com/g1eny0ung/hugo-theme-dream)」主题。
 ## 购买域名
+---
 域名需要到专门的域名提供商购买。国外的 「GoDaddy」、「Namecheap」 ，国内的阿里云、腾讯云等等有很多。我是在 [dynadot](https://www.dynadot.com/) 这个网站购买的。价格似乎低一些。
 ## 发布博客
+----
 自己是硬件出身，对应服务器、网站运行之类的详细细节并不熟悉。这里直接采用 Netlify 托管的方式来发布博客。
 
 大概的流程：
@@ -42,6 +45,7 @@ Hugo 支持的主题有很多，所有的主题都在 [Hugo Themes](https://them
 详细过程可以参考[在 Netlify 上托管 | Hugo官方文档](https://hugo.opendocs.io/zh-cn/hosting-and-deployment/hosting-on-netlify/) 。
 
 ## 详细操作步骤 
+----
 以下流程均在 Win11 64bit 系统环境下进行。
 ### 软件环境准备
 
@@ -153,6 +157,12 @@ HUGO_ENV = 'production'
 至此，整个博客的搭建环节就完成，下一篇会更新博客写作的流程。
 
 ---- 
+### 参考链接
+[部署 Hugo 网站到 Netlify ](https://www.sulinehk.com/post/deploying-hugo-website-to-netlify/)
 
-如果你觉得这篇博客对你有很大的帮助，可以点击下方`赞赏`。
+[【20分钟讲解如何建立个人网站】](https://www.bilibili.com/video/BV1Be4y1h756/?vd_source=aebdabd3c5a0a89ddca0d41c1492f00b)
+
+----
+
+
 

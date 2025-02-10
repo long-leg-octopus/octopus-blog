@@ -4,6 +4,8 @@ languageCode = "zh"
 title = "章鱼腿很长"
 theme = "dream"
 
+enableRobotsTXT = true
+
 # [services]
 # [services.disqus]
 # shortname = ""
@@ -23,7 +25,7 @@ author = "章鱼"
 # description = ""
  avatar = "img/avatar.png"
 headerTitle = "章鱼腿很长"
- motto = "记录，思考，沉淀"
+ motto = "不设限，做个行动的巨人！"
 
 # footerBottomText = "123"
 
@@ -49,8 +51,8 @@ siteStartYear = 2025
 
 # options
  stickyNav = true
-#reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
-  collapseNavItems = ["posts", "categories", "tags"]
+# reorderNavItems = ["search", "rss", "posts", "categories", "tags", "serise"]
+ collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
  showTableOfContents = true
 # showSummaryCoverInPost = true
@@ -59,6 +61,9 @@ siteStartYear = 2025
  reorderShares = ["x", "facebook", "whatsapp"]
 
 # [params.navItems]
+#[params.navItems]
+#series = { href = "/series", icon = "planet", title = "Series" }
+
 
 # [params.advanced]
 # customCSS = ["css/custom.css"]
