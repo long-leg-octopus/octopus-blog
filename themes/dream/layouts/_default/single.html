@@ -48,6 +48,9 @@
 
           | <span>{{ .ReadingTime }}{{ T "minuteRead" .ReadingTime }}</span>
 
+
+
+
           {{ if ne .Params.nolastmod true }}
           | <span>{{ T "updatedAt" }}
             {{ if site.Params.Experimental.jsDate }}
@@ -56,6 +59,14 @@
               {{ .Lastmod | time.Format "Monday, Jan 2, 2006" }}
             {{ end }}</span>
           {{ end }}
+
+<!-- busuanzi -->
+          {{ if .Site.Params.busuanzi.enable -}}
+            | 本文阅读量<span id="busuanzi_container_page_pv">{{ T "pageViews" }}<span id="busuanzi_value_page_pv"></span>次</span>
+          {{- end }}
+
+
+
         </p>
 
         {{ $hasAuthor := or .Params.author site.Params.author }}
@@ -66,6 +77,12 @@
 
           {{ partial "share.html" . }}
         </div>
+
+
+
+
+
+
       </header>
 
       <section id="dream-single-post-content" itemprop="articleBody">
