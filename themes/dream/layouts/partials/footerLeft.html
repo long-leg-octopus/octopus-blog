@@ -12,6 +12,23 @@
   <p>{{ site.Params.footerBottomText | safeHTML }}</p>
   {{ else }}
   <p class="text-sm">
+
+<!-- busuanzi -->
+{{ if .Site.Params.busuanzi.enable -}}
+<div class="busuanzi-footer">
+  <span id="busuanzi_container_site_pv">
+    本站访问量<span id="busuanzi_value_site_pv"></span>次
+  </span>
+  <span id="busuanzi_container_site_uv">
+    访客人数<span id="busuanzi_value_site_uv"></span>人
+  </span>
+</div>
+{{- end -}}
+
+
+
+
+
     🌱
     <span class="text-base-content/60">
       Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
