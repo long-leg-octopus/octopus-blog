@@ -2,7 +2,7 @@
 title: QuickModule_STM32F407VET6最小系统硬件电路设计
 slug: STM32F407VET6-hardware-user-guide
 date: 2025-02-16T20:15:23+08:00
-lastmod: 2025-03-06T22:03:48+08:00
+lastmod: 2025-03-06T22:11:21+08:00
 author: 章鱼腿很长
 categories:
   - ""
@@ -13,10 +13,9 @@ tags:
 toc: false
 draft: false
 isCJKLanguage: true
-cover: 
+cover: index-1741270268539.webp
 images:
 ---
-
 
 <!--more-->
 
