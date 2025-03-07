@@ -51,19 +51,23 @@ siteStartYear = 2025
 
 # options
  stickyNav = true
-# reorderNavItems = ["search", "rss", "posts", "categories", "tags", "serise"]
+# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
  collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
  showTableOfContents = true
 # showSummaryCoverInPost = true
 # imageZoomableInPost = true
  showPrevNextPost = true
- reorderShares = ["x", "facebook", "whatsapp"]
+# reorderShares = ["x", "facebook", "whatsapp"]
 
 # [params.navItems]
-#[params.navItems]
-#series = { href = "/series", icon = "planet", title = "Series" }
 
+
+# [params.twikoo]
+# enabled = true
+# envID = ""
+# region = ""
+# lang = ""
 
 # [params.advanced]
 # customCSS = ["css/custom.css"]
